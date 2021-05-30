@@ -1,0 +1,1 @@
+StringBuilder用到建造者模式
